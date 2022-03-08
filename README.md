@@ -3,7 +3,9 @@
 
 Criar repositório no GitHub usando os conhecimentos adquiridos nos cursos DIO.
 
-1 - Criar repositório público no GitHub;
-2 - Clonar repositório para a máquina local;
-3 - Fazer alterações no repositório local - como criar um novo arquivo;
-4 - Fazer push do repositório local com as alterações feitas.
+<ol>
+  <li>Criar repositório público no GitHub;</li>
+  <li>Clonar repositório para a máquina local;</li>
+  <li>Fazer alterações no repositório local - como criar um novo arquivo;</li>
+  <li>Fazer push do repositório local com as alterações feitas.</li>
+</ol
